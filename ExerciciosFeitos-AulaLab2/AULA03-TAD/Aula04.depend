@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1679497891 source:d:\campos-dev\codeblocks-estruturadedados\exerciciosfeitos-aulalab2\aula03-tad\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
+1679497495 d:\campos-dev\codeblocks-estruturadedados\exerciciosfeitos-aulalab2\aula03-tad\aluno.h
+	<iostream>
+	<string>
+
+1504532744 d:\campos-dev\codeblocks-estruturadedados\exerciciosfeitos-aulalab2\aula03-tad\prova.h
+	<iostream>
+
+1447842593 source:d:\campos-dev\codeblocks-estruturadedados\exerciciosfeitos-aulalab2\aula03-tad\prova.cpp
+	"Prova.h"
+
+1679497850 source:d:\campos-dev\codeblocks-estruturadedados\exerciciosfeitos-aulalab2\aula03-tad\aluno.cpp
+	"Aluno.h"
+
